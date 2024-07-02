@@ -1,2 +1,5 @@
-# batModPictureNam2FontNam
-it replaces the font thumbnails in each directory with the font names and numbers.
+This is a niche software designed to help designers or enthusiasts organize Windows font thumbnails. Its main function is to traverse all subdirectories under the specified path. If it finds font files and image files, it will extract the font names and then rename all the images in this directory to match the font names and number them. In simpler terms, it replaces the font thumbnails in each directory with the font names and numbers. It is important to note that each subdirectory can only have one font file and can have 1 or more image files. The execution is irreversible and should be done with caution.
+The software is currently relatively rudimentary, and I hope that skilled individuals can continue to improve it. It is open-source and free to use, so please refrain from selling it. Thank you.
+
+这是一个小众的软件，功能是用来帮助设计师或爱好者整理Windows字体缩略图的。它的主要功能就是遍历您指定路径下的所有的子目录，如果发现字体文件和图片文件，就会提取字体的名字，然后把这一目录下所有图片的名字更改为字体的名字并且编号。这一功能通俗一点讲，就是给每个目录下字体的缩略图换成字体的名字并编号。需要特别注意的是：每个子目录下只能有一个字体文件，可以有1个或多个图片文件。并且执行是一次性的，不可撤销的，要谨慎操作。
+软件目前比较幼稚，希望各位大佬能继续完善，开源免费使用，请勿售卖。谢谢。
